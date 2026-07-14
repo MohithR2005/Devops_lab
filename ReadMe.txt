@@ -1,1 +1,2 @@
-this is my second commit
+This is typed from jayanth
+Added new feature
